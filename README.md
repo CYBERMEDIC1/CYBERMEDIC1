@@ -48,4 +48,27 @@
 - https://github.com/CYBERMEDIC1/SPLUNK-notes
 - https://github.com/CYBERMEDIC1/Basic-port-scanner
 
+## AWESOME STUFF I CAN DO
+- Network scanning
+- Network mapping
+- Sandbox research
+- Vulnerability scanning
+- Malware analysis
+- Packet sniffing
+- Hash cracking
+- Credential harvesting
+- Password cracking
+- ARP poisoning
+- WIFI scanning / Harvesting
+- WIFI password cracking
+- Incident logs
+- Firewall configurations
+- Directory brute forcing
+- Custom word list generations
+- SIEM's
+- VPN's
+- Exploit research
+- OSINT
+- Long walks on the beach
+# many more not listed, or to come
 ###
