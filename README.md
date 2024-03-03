@@ -39,7 +39,9 @@
 
 
 ## CURRENT PROJECTS I AM WORKING ON
--
--
+- https://github.com/CYBERMEDIC1/OSINT-Notes
+- https://github.com/CYBERMEDIC1/HACKING-NOTES-and-TOOLS
+- https://github.com/CYBERMEDIC1/SPLUNK-notes
+- https://github.com/CYBERMEDIC1/Basic-port-scanner
 
 ###
