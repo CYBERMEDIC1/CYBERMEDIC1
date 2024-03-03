@@ -48,7 +48,7 @@
 - https://github.com/CYBERMEDIC1/SPLUNK-notes
 - https://github.com/CYBERMEDIC1/Basic-port-scanner
 
-## AWESOME STUFF I CAN DO
+STUFF I ENJPOY
 - Network scanning
 - Network mapping
 - Sandbox research
