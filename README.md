@@ -37,4 +37,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
 
+
+## CURRENT PROJECTS I AM WORKING ON
+-
+-
+
 ###
