@@ -71,6 +71,6 @@
 - Virtual private networks
 - Exploit research
 - OSINT
-- Long walks on the beach
+- Margaritas and Long walks on the beach
 - Many more not listed, or to come
 ###
