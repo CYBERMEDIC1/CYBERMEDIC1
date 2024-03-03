@@ -70,5 +70,5 @@
 - Exploit research
 - OSINT
 - Long walks on the beach
-# many more not listed, or to come
+- many more not listed, or to come
 ###
