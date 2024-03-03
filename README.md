@@ -62,11 +62,13 @@
 - WIFI scanning / Harvesting
 - WIFI password cracking
 - Incident logs
+- Intrusion detection systems
+- Intrusion prevention systems
 - Firewall configurations
 - Directory brute forcing
 - Custom word list generations
-- SIEM's
-- VPN's
+- Security incident event managers
+- Virtual private networks
 - Exploit research
 - OSINT
 - Long walks on the beach
